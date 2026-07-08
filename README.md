@@ -163,6 +163,12 @@ Feel free to fork the repository and submit a pull request.
 This project is intended for educational purposes.
 
 ---
+<img width="1414" height="762" alt="image" src="https://github.com/user-attachments/assets/25f0f668-72ed-4e5a-8bad-489b8e6ae82a" />
+<img width="1412" height="760" alt="image" src="https://github.com/user-attachments/assets/7c919ab6-f6ab-472f-9a8e-c6f83df72379" />
+
+
+<img width="1410" height="764" alt="image" src="https://github.com/user-attachments/assets/eff0ed2e-6059-4055-b1e6-0283efc4c40d" />
+
 
 ## ⭐ If you like this project
 
