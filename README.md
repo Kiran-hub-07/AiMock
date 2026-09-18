@@ -1,3 +1,9 @@
+# AiMock – AI Interview Studio
+
+🚀 **[Live Demo →](https://kiran-hub-07.github.io/AiMock/)**
+
+An AI-powered interview practice platform for students and job seekers.
+
 <img width="1426" height="772" alt="image" src="https://github.com/user-attachments/assets/131bed31-80ce-4327-a38e-cd0967c4a5a8" /># 🎯 Aimock – AI-Powered Interview Platform
 
 Aimock is a modern web-based mock interview platform designed to help students and job seekers practice interviews in a realistic environment. Users can upload their resume and job description, customize interview settings, answer AI-generated questions using voice, and receive performance feedback with progress tracking.
